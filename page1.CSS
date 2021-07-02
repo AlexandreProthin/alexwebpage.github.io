@@ -1,0 +1,51 @@
+.fond {
+  /*background-color: #f0ff0f;*/
+  background-image: url(https://us.123rf.com/450wm/ftotti/ftotti1608/ftotti160800011/61449652-sombre-illustration-vectorielle-avec-un-motif-hexagonal-et-r%C3%A9tro-%C3%A9clairage-bleu-concevoir-pour-votre-pc-.jpg?ver=6);
+  width: 800px;
+  height: 600px;
+}
+
+.menu {
+  border-radius: 10px;
+  border: 2px solid orange;
+  margin: 2%;
+  color: #ffd70f;
+  background-color: #333333;  
+  width: 200px;
+  height: 300px;
+  float:left;
+
+}
+
+.contenu {
+  border-radius: 10px;
+  border: 2px solid blue;
+  margin: 2%;
+  color: #ffd70f;
+  background-image: radial-gradient(rgba(25, 148, 255, 1), rgba(51, 51, 51, 1));  
+  width: 550px;
+  height: 600;
+  overflow: hidden;
+}
+
+ol.Smenu {
+  list-style-type: decimal;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+th, td {
+  padding: 20px;
+}
+
+.Polytech{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 10px;
+}
+
